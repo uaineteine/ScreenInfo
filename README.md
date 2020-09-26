@@ -10,7 +10,7 @@ Add project to solution with reference to get started or via [NuGet](https://www
 
 * CoordLibrary [github](https://github.com/uaineteine/Coord) | [bitbucket](https://bitbucket.org/uaineteinestudio/coordlibrary/) (v1.2) by [UaineTeine](https://bitbucket.org/uaineteinestudio/) - A coordinate library with extra functions
 
-## Version 1.0.1
+## Version 1.0.2
 
 See the [changelog](changelog.txt) for details.
 
