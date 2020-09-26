@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Coord;
+using Uaine.Coord;
 
-namespace ScreenScraper
+namespace Uaine.ScreenScraper
 {
     public class ScreenInfo
     {
