@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Uaine.ScreenScraper</id>
+    <version>1.0.1</version>
+    <title>Uaine.ScreenScraper</title>
+    <authors>Daniel Stamer-Squair</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://bitbucket.org/uaineteinestudio/screeninfo</projectUrl>
+    <iconUrl>https://bitbucket.org/uaineteinestudio/screeninfo/raw/9c26211c80fedeeddf04d856a0acc7d23a2f5ac7/icon/icon.png</iconUrl>
+    <description>A C# .NET framework project to get screen information (size and position) based on the monitor index in a Windows environment</description>
+    <releaseNotes>First NuGet release</releaseNotes>
+    <copyright>Copyright 2020 Daniel Stamer-Squair</copyright>
+    <tags></tags>
+  </metadata>
+</package>
