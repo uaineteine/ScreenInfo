@@ -1,1 +1,2 @@
-NO CHANGES AS OF YET
+--1.0.1--
+* Updated coord to v1.2
