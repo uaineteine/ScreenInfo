@@ -4,7 +4,7 @@ A C# .NET framework project to get screen information (size and position) based 
 
 ## Getting Started
 
-Add project to solution with reference to get started
+Add project to solution with reference to get started or via [NuGet](https://www.nuget.org/packages/Uaine.ScreenScraper/)
 
 #### This project is packaged with libraries:
 
