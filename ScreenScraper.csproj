@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{4491C280-6D9D-495C-AE92-96D2B1FC6094}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>ScreenScraper</RootNamespace>
-    <AssemblyName>ScreenScraper</AssemblyName>
+    <RootNamespace>Uaine.ScreenScraper</RootNamespace>
+    <AssemblyName>Uaine.ScreenScraper</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Uaine.Coord;
 
-namespace ScreenScraper
+namespace Uaine.ScreenScraper
 {
     public class ScreenInfo
     {
