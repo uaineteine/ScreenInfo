@@ -47,8 +47,8 @@
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Coord\Coord\Coord.csproj">
-      <Project>{b6130c55-d136-4b6e-85e2-c415e88be255}</Project>
+    <ProjectReference Include="Coord\Coord.csproj">
+      <Project>{ef5865fd-ee3a-42dc-9cc9-8d2bc4fc8b13}</Project>
       <Name>Coord</Name>
     </ProjectReference>
   </ItemGroup>
