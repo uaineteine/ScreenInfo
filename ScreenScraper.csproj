@@ -7,7 +7,7 @@
     <ProjectGuid>{4491C280-6D9D-495C-AE92-96D2B1FC6094}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Uaine.ScreenScraper</RootNamespace>
-    <AssemblyName>Uaine.ScreenScraper</AssemblyName>
+    <AssemblyName>ScreenScraper</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
