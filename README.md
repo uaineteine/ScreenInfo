@@ -18,6 +18,10 @@ See the [changelog](changelog.txt) for details.
 
 * **Daniel Stamer-Squair** - *UaineTeine*
 
+## Donate
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C43PQ0I)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
