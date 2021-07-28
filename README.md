@@ -8,9 +8,9 @@ Add project to solution with reference to get started or via [NuGet](https://www
 
 #### This project is packaged with libraries:
 
-* CoordLibrary [github](https://github.com/uaineteine/Coord) | [bitbucket](https://bitbucket.org/uaineteinestudio/coordlibrary/) (v1.2) by [UaineTeine](https://bitbucket.org/uaineteinestudio/) - A coordinate library with extra functions
+* CoordLibrary [github](https://github.com/uaineteine/Coord) | [bitbucket](https://bitbucket.org/uaineteinestudio/coordlibrary/) (v1.3.2) by [UaineTeine](https://bitbucket.org/uaineteinestudio/) - A coordinate library with extra functions
 
-## Version 1.0.2
+## Version 1.0.3
 
 See the [changelog](changelog.txt) for details.
 
